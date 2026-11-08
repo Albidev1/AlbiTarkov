@@ -4,7 +4,7 @@
 
 Mapa Tarkova na drugi monitor. Jesteś na Customs, masz w plecaku coś wartego wyniesienia, a Twoje wyjście wymaga prądu. Klikasz ZB-1013 i widzisz na mapie zarówno bunkier, jak i przełącznik w magazynie.
 
-![Customs w AlbiTarkov z wyjściami Scava i PMC oraz przejściami na inne mapy](docs/map.png)
+![Customs w AlbiTarkov z wyjściami Scava i PMC oraz przejściami na inne mapy](docs/albitarkov-1.1-customs.png)
 
 ## Pobierz na Windows
 
